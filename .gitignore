@@ -1,4 +1,4 @@
 *.swp
 .ipynb_checkpoints/
 .env/
-.cv*/
+cv*/
